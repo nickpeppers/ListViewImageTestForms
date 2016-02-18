@@ -1,2 +1,0 @@
-C:\Users\nick.peppers\Documents\Visual Studio 2015\Projects\ImageTest.Forms\ImageTest.Forms\ImageTest.Forms.UWP\ImageTest.Forms.UWP.csproj;x86
-C:\Users\nick.peppers\Documents\Visual Studio 2015\Projects\ImageTest.Forms\ImageTest.Forms\ImageTest.Forms\ImageTest.Forms.csproj;neutral
