@@ -4,7 +4,7 @@
   xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
   x:Class="ImageTest.Forms.Views.TestView">
   <StackLayout>
-    <Image Source="Assets\chuck.png" />
+    <Image Source="chuck.png" />
     <Label Text="Test Separate View Class" VerticalOptions="Center" HorizontalOptions="Center" />
   </StackLayout>
 </ContentView>
